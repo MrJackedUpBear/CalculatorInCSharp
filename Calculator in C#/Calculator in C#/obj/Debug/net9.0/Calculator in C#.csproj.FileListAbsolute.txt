@@ -1,0 +1,14 @@
+C:\Users\MrJac\Documents\Calculator in C#\Calculator in C#\bin\Debug\net9.0\Calculator in C#.exe
+C:\Users\MrJac\Documents\Calculator in C#\Calculator in C#\bin\Debug\net9.0\Calculator in C#.deps.json
+C:\Users\MrJac\Documents\Calculator in C#\Calculator in C#\bin\Debug\net9.0\Calculator in C#.runtimeconfig.json
+C:\Users\MrJac\Documents\Calculator in C#\Calculator in C#\bin\Debug\net9.0\Calculator in C#.dll
+C:\Users\MrJac\Documents\Calculator in C#\Calculator in C#\bin\Debug\net9.0\Calculator in C#.pdb
+C:\Users\MrJac\Documents\Calculator in C#\Calculator in C#\obj\Debug\net9.0\Calculator in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrJac\Documents\Calculator in C#\Calculator in C#\obj\Debug\net9.0\Calculator in C#.AssemblyInfoInputs.cache
+C:\Users\MrJac\Documents\Calculator in C#\Calculator in C#\obj\Debug\net9.0\Calculator in C#.AssemblyInfo.cs
+C:\Users\MrJac\Documents\Calculator in C#\Calculator in C#\obj\Debug\net9.0\Calculator in C#.csproj.CoreCompileInputs.cache
+C:\Users\MrJac\Documents\Calculator in C#\Calculator in C#\obj\Debug\net9.0\Calculator in C#.dll
+C:\Users\MrJac\Documents\Calculator in C#\Calculator in C#\obj\Debug\net9.0\refint\Calculator in C#.dll
+C:\Users\MrJac\Documents\Calculator in C#\Calculator in C#\obj\Debug\net9.0\Calculator in C#.pdb
+C:\Users\MrJac\Documents\Calculator in C#\Calculator in C#\obj\Debug\net9.0\Calculator in C#.genruntimeconfig.cache
+C:\Users\MrJac\Documents\Calculator in C#\Calculator in C#\obj\Debug\net9.0\ref\Calculator in C#.dll
